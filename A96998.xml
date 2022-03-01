@@ -1,0 +1,236 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The remonstrance of the Commons of England, to the House of Commons assembled in Parliament. Preferred to them by the hands of the speaker.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96998</idno>
+            <idno type="STC">Wing W382C</idno>
+            <idno type="STC">Thomason E92_5</idno>
+            <idno type="STC">ESTC R5886</idno>
+            <idno type="EEBO-CITATION">99872913</idno>
+            <idno type="PROQUEST">99872913</idno>
+            <idno type="VID">125360</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96998)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125360)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 16:E92[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The remonstrance of the Commons of England, to the House of Commons assembled in Parliament. Preferred to them by the hands of the speaker.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed Anno Dom. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "1642 March. 7."; the 3 in the imprint date has been crossed out.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125360:1"/>
+            <pb facs="tcp:125360:1" rendition="simple:additions"/>
+            <p>THE REMONSTRANCE OF THE COMMONS OF <hi>ENGLAND, To the Houſe of</hi> COMMONS <hi>Aſſembled in</hi> PARLIAMENT. <hi>Preferred to them by the hands of the SPEAKER.</hi>
+            </p>
+            <p>
+               <hi>Printed Anno Dom.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:125360:2"/>
+            <pb n="1" facs="tcp:125360:2"/>
+            <head>THE REMONSTRANCE Of the Commons of England to the Houſe of Commons aſſembled in Parliament, preferred to them by the hands of their SPEAKER.</head>
+            <div type="preamble">
+               <opener>
+                  <salute>Maſter Speaker,</salute>
+               </opener>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">P</seg>Rejudge us not, we pray you, becauſe the title of this paper is a</hi> Remonſtrance, <hi>not a</hi> Petition; <hi>the cauſe is, for that</hi> Petitions <hi>have had ill ſucceſſe of late, yet the</hi> matter <hi>will be the ſame, though the</hi> forme differ.</p>
+               <p>
+                  <hi>We ſend this (whatſoever ye will call it) to the Honourable Houſe of Commons, who are the repreſentative Body of the whole Commons of England, and we deſire to preſent it by you who are the</hi> Speaker <hi>of that Houſe.</hi>
+               </p>
+               <p>
+                  <hi>The end of our deſire is</hi> Peace, <hi>and we hope we ſhall not erre in the way, when we intreat you to be our Mediatour. Maſter</hi> Spea<g ref="char:EOLhyphen"/>ker, <hi>all that we deſire of you, is to deliver this to the Houſe, to procure it to be read, and to obtain as good an anſwer unto us, as you may.</hi>
+               </p>
+               <p>
+                  <hi>And now we addreſſe our ſelves to the honourable Houſe it ſelfe.</hi>
+               </p>
+            </div>
+            <div type="body_of_remonstrance">
+               <p>VVHen this Parliament was called (after ſeveral unhap<g ref="char:EOLhyphen"/>py breaches of ſome former) we comforted our ſelves
+<pb n="2" facs="tcp:125360:3"/>with a hope of a redreſſe of all our grievances, and we made choice of you for our <hi>Knights, Citizens</hi> &amp; <hi>Burgeſſes,</hi> to ſerve for us there, and we did put our confidence in you, and beleeved that you according to our truſt without any by reſpects, would have ſtudied onely the peace and good of the Kingdom, and we can<g ref="char:EOLhyphen"/>not be yet out of hope, but that ye will performe in the end.</p>
+               <p>But you muſt not take it amiſſe, if as perſons grieved, we tell you where our griefes lie. And to prepare our Cure the better, we muſt deſire you to call to your remembrances.</p>
+               <p n="1">1. That we are ſtill the true body of the Commons of Eng<g ref="char:EOLhyphen"/>land; you, but the repreſentative.</p>
+               <p n="2">2. That wee have not ſo delegated the power to you, as to make you the governors of us and of our eſtates, you are in truth but our Procurators, to ſpeake for us in the great Councell.</p>
+               <p n="3">3. That in right we ought to have acceſſe to thoſe whom we have thus choſen, and to the whole Houſe, as there ſhall be cauſe to impart our deſires unto you, and you ought not to re<g ref="char:EOLhyphen"/>fuſe us.</p>
+               <p n="4">4. That by involving our votes in yours, we had no purpoſe to make you perpetuall Dictators.</p>
+               <p n="5">5. That we never intended, that you ſhould have that lati<g ref="char:EOLhyphen"/>tude of power as to imbark us all in a Civil War, to the deſtru<g ref="char:EOLhyphen"/>ction of us and our poſterities.</p>
+               <p n="6">6. Much leſſe had we a thought, that by any your votes ye would or could draw us into any Acts of diſloyalty or diſobe<g ref="char:EOLhyphen"/>dience againſt our naturall Leige Lord, to whom by the lawes of God and man, we doe owe and will pay all allegiance and fi<g ref="char:EOLhyphen"/>delity.</p>
+               <p>Wherefore, we muſt claim this freedome which belongs unto us, as free-borne Subjects, and as perſons intereſſed in the good and ſafety of this Kingdome, as well as your ſelves, that ye will ſpeedily take thoſe things into your wiſe and Religious Conſi<g ref="char:EOLhyphen"/>derations, which belong to our peace, and which we out of the deep ſence of our preſent miſeries, and of the apparent ruine of us all (if not timely prevented) do now offer unto you.</p>
+               <pb n="3" facs="tcp:125360:3"/>
+               <p>None of which ſhall be any new fancies, or dreames of di<g ref="char:EOLhyphen"/>ſtempered braines, but ſhall be ſuch as have their grounds upon apparent truth, and a cleere evidence.</p>
+               <p>For firſt, we doe profeſſe to all the world that wee are reſol<g ref="char:EOLhyphen"/>ved with our lives and fortunes to maintaine the true Pro<g ref="char:EOLhyphen"/>teſtant Religion eſtabliſhed by the Laws in this Church of England. To maintain our well ſetled Government under a Monarchie, according to the knowne Laws of this Land. To maintaine the juſt libertie of our perſons and Property of our Eſtates, acording to the Rule of thoſe Laws. To maintaine the juſt priviledges of Parliament, without which our Laws can hardly be continued.</p>
+               <p>And in the aſſerting of theſe, we beleeve we have the concur<g ref="char:EOLhyphen"/>rence of both the Houſes of Parliament, for ſuch have been their daily Proteſtations from time to time.</p>
+               <p>And for the Kings Majeſties Opinion herein; he hath by ma<g ref="char:EOLhyphen"/>ny declarations, ſolemne proteſtations and religious vows, be<g ref="char:EOLhyphen"/>fore God and Man, declared himſelfe ſo fully and ſo freely, that it is his unchangeable Reſolution to live and die in the maintai<g ref="char:EOLhyphen"/>nance of all theſe, that we hold our ſelves bounden in reverence to his perſon, and in Chriſtianity, to beleeve that he will faith<g ref="char:EOLhyphen"/>fully performe his word with his people.</p>
+               <p>And we have this further aſſurance thereof, in that he hath de<g ref="char:EOLhyphen"/>ſcended ſo low from his Throne, as to acknowledge ſome er<g ref="char:EOLhyphen"/>rours which have ſlipt him in his by-paſt government, and to undertake not to give way to the like hereafter.</p>
+               <p>We wiſh with all our hearts, that you would with the ſame ingenuity acknowledge your errors alſo, and amend them; ſo might we ſoone (by Gods bleſſing) have our peace reſtored again, and by your induſtries made a happy Nation.</p>
+               <p>Let us then cleerely and freely expreſſe in what things wee finde our ſelves grieved, which have beene voted, ordered, and acted by you during this Parliament, whereby the cure inten<g ref="char:EOLhyphen"/>ded is become worſe then the diſeaſe under which we formerly languiſhed; and we muſt with as much clearneſſe and freedome proteſt againſt them, if they be not ſpeedily reformed and re<g ref="char:EOLhyphen"/>medied.</p>
+               <pb n="4" facs="tcp:125360:4"/>
+               <p>The particulars are theſe.</p>
+               <p n="1">1. That under the colour of advancing the true Proteſtant Religion, encouragement is given to Anabaptiſts, Browniſts, and all manner of Sectaries, which multiply in every Corner; which muſt be reformed, or our true Religion is loſt.</p>
+               <p n="2">2. Under the pretence of hatred of Popery (which we alſo deteſt, as far as their ſuperſtitions &amp; idolatrous tenets are incon<g ref="char:EOLhyphen"/>ſiſtent with the true reformed Proteſtant Religion) the book of Common-Prayer (which is eſtabliſhed by Law) is cryed down by many, and all decent orders in Gods outward worſhip; and every man left to the dictate of his private ſpirit: but let the Laws againſt Papiſts and Sectaries (the two extreams) be put in due execution, we ſhall thank you for it.</p>
+               <p n="3">3, Under the colour of regulating the Eccleſiaſtical Courts, and taking away the High Commiſſion Court, all ſpirituall Ju<g ref="char:EOLhyphen"/>riſdiction (for the coërcive part thereof, which is the life of the Law) is taken away, ſo that now no heinous crimes, in<g ref="char:EOLhyphen"/>quirable by thoſe Courts, as Adultery, Inceſt, &amp;c. can be pu<g ref="char:EOLhyphen"/>niſhed: No Hereſie or Schiſme reformed: No Church can be inforced to be repaired: No Church-office<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g> as Church-War<g ref="char:EOLhyphen"/>dens, &amp;c. are compellable to take upon them their offices, or performe their duties, no not to provide Bread and Wine for the Communion: No Parſons or Vicars can be inforced to at<g ref="char:EOLhyphen"/>tend their Cures, or to give ſatisfaction for the paines of them who doe: No Tithes can be recovered by their Law, nor other Church Duties. We beſeech you think what will be the end of theſe things at the laſt.</p>
+               <p n="4">4. Under the name of reforming the Church Government, ye endevour to take away the function, and very being of Church-Governours, as Biſhops, and their Aſſiſtants the Deans &amp; Chap<g ref="char:EOLhyphen"/>ters, ſo to take away the preferments of learned men, and the en<g ref="char:EOLhyphen"/>couragements of learning: In the name of God let the abuſes be taken away, but not the good uſes alſo.</p>
+               <p n="5">5. For the rectifying of matters amiſſe in Church Diſcipline, and ſome things in Doctrine alſo, (as is pretended) an Aſſembly of Divines is propounded to bee convocated and conſulted
+<pb n="5" facs="tcp:125360:4"/>with: the matter is right, but the manner is ſurely amiſſe, and ſo wee are likely to loſe the benefit of the ſubſtance for the er<g ref="char:EOLhyphen"/>rors in the circumſtance; which is, That in this intended Con<g ref="char:EOLhyphen"/>vocation, the Divines are not nominated by Divines, who can beſt judge of their abilities (which is the legall way) the grea<g ref="char:EOLhyphen"/>teſt part of thoſe who are named, are knowne or juſtly ſuſpected to be perſons ill diſpoſed to the peace of the Church, and addi<g ref="char:EOLhyphen"/>cted too much to Innovation; you your ſelves (being all Lay<g ref="char:EOLhyphen"/>men) are to be the onely Judges of what ſhall be propounded, and what determined; the Divines but your aſſiſtants, and the King is totally to be excluded from having any Voice or hand in it: And (as it is propounded) this is to be a perpetuall Con<g ref="char:EOLhyphen"/>vocation, if the Houſes of Parliament ſo pleaſe.</p>
+               <p n="6">6. Under the colour of freedome of Preaching, ſeditious Sermons are preached daily, even in the hearing of many of your ſelves, who traduce the Kings ſacred Perſon, ſlander His Government, and in expreſſe termes, encourage the maintaining and continuing of this unnaturall and unchriſtian civill Warre, and yet none are puniſhed for it; which makes us feare that this is, and long hath been made by ſome, to be the the principal engine to kindle this fire of hell, to the juſt ſcandall of all good men, &amp; ſlander of our Religion, this doctrine comming ſo cloſe to that of the Jeſuites.</p>
+               <p n="7">7. And divers worthy, learned, and painfull Preachers have been committed to priſon by you for delivering their conſcien<g ref="char:EOLhyphen"/>ces freely and religiouſly, and preaching obedience to their So<g ref="char:EOLhyphen"/>veraigne. Theſe things we obſerve unto you, as tending main<g ref="char:EOLhyphen"/>ly againſt the maintaining and propagation of the true Prote<g ref="char:EOLhyphen"/>ſtant Religion.</p>
+               <p>Touching that part which concerneth the maintaining of the Laws, we ſhal obſerve alſo ſome things unto you, wherein your own practice differs much from your profeſſions: a prepoſterous way to perſwade us, or any other by-ſtanders.</p>
+               <p n="1">1. Ye aſſume that power to your ſelves, that ye by a bare Vote without an Act of Parliament, may expound or alter a known Law; whereas the Commons houſe formerly aſſumed
+<pb n="6" facs="tcp:125360:5"/>to themſelves no ſuch power, but in order towards the making of a new Law: nor did the Houſe of Peeres chalenge any ſuch thing: But they having the power of Juarcature, as Judges they proceed according to the rules of the known Lawes, and upon their honours are anſwerable for the juſtneſſe of their Judge<g ref="char:EOLhyphen"/>ments, as other Courts are upon their oathes.</p>
+               <p n="2">2. You make your own orders and ordinances to be as Laws, and compell them to be obſerved, and with a ſtricter hand which may binde the members of your Houſe in their priviledg<g ref="char:EOLhyphen"/>es, but have not, nor ever had the force of Laws, untill by both Houſes and the Kings conſent they were confirmed.</p>
+               <p n="3">3. And for your own obſervation of the Laws of the Landye take your ſelves to be ſo far above the reach of them, that by your orders and ordinances ye enjoyne the Judges and Miniſters of juſtice to forbear (contrary to their oaths) to proceed in their or<g ref="char:EOLhyphen"/>dinary courſes, where ye pleaſe.</p>
+               <p n="4">4. Ye make an Ordinance to put the <hi>Militia</hi> of the Kingdom into ſuch hands as ye pleaſe, and ſhall confide in, and this with<g ref="char:EOLhyphen"/>out the King, and expreſſely againſt His Command.</p>
+               <p n="5">5. Ye poſſeſſe your ſelves of the Navy Royall, and appoint Admiralls and other Officers by Sea without the King, and uſe thoſe ſhips againſt the King himſelfe.</p>
+               <p n="6">6 Ye take the Kings Caſtles, Forts, and Ports, the places of greateſt ſtrength in the Kingdome, and keepe them againſt the King himſelf, as <hi>Hull,</hi> and <hi>Portſmouth,</hi> and <hi>Windſore Caſtle;</hi> and theſe three laſt actions appeare to us to have beene done by De<g ref="char:EOLhyphen"/>fine, for</p>
+               <p n="7">7 The pretence at firſt was for the preſervation of the king<g ref="char:EOLhyphen"/>dome, againſt ſome forreigne Enemy; but when none appeared in many monethes, (and we now beleeve none ſuch in truth e<g ref="char:EOLhyphen"/>ver were) a warre for the Parliament, againſt the King himſelf was raiſed for the preſervation of the King.</p>
+               <p n="8">8 And thoſe who refuſe to joyne in this warre with you, or to contribute unto it, with giving or lending of money, horſe, armes &amp;c. ye proſcribe as Malignants, and perſons ill affected to the Common-wealth; although we ſee not how it can be leſſe
+<pb n="7" facs="tcp:125360:5"/>then Treaſon againſt the King to joyne with you therein.</p>
+               <p n="9">9 But to all thoſe who are your Commanders or Officers of your Army, ye give large and even profuſe entertainments and rewards; but out of our purſes, who give you little thankes for it. Thus much may ſuffice to give a taſte how the Laws are and are likely to be maintained in the courſe we are now in.</p>
+               <p>And for the Liberty of our perſons, and Propriety of our E<g ref="char:EOLhyphen"/>ſtates, we ſhall ſay a little in the next place, and by a few parti<g ref="char:EOLhyphen"/>culars judge what we may hope for therein.</p>
+               <p n="1">1 Ye take the Kings Treaſure, ye intercept his revenue, poſ<g ref="char:EOLhyphen"/>ſeſſe his houſes of acceſſe, and all theſe for his own ſervice; &amp; if any attend him or aſſiſt him, they are condemned as Malignants, Popiſh, evil Counſellors and Enemies to the State.</p>
+               <p n="2">2 Ye have by meſſages endeavoured to perſwade our Bre<g ref="char:EOLhyphen"/>thren of Scotland to joyne with you in your Rebellion againſt your Soveraigne, and this was not done by ſome private men a<g ref="char:EOLhyphen"/>lone, but ordered by the Votes of your Houſe.</p>
+               <p n="3">3 Ye condemne the Rebells in Ireland (and that very juſt<g ref="char:EOLhyphen"/>ly) for their horrid rebellion there, and yet your ſelves doe greater and more horrid acts of barbarous hoſtility againſt your King, even in his own perſon, in England: and when yee have beene charged with it, ye would excuſe it by ſaying, that it was not your fault, but the fault of the King himſelfe, and of the Counſellors and Cavaliers about him, that he went him<g ref="char:EOLhyphen"/>ſelfe in perſon into the battel, which he did with that magnani<g ref="char:EOLhyphen"/>mity and Kingly courage, as will adde to his honour and your ſhame whilſt the world endureth. Thus your action is become odious to God and Man, and your excuſe for it ridiculous.</p>
+               <p n="4">4 And as if ye had ſhaken off all ſubjection, and yourſelves become a State independant, ye have treated by your Agents with forreigne States: Such an uſurpation upon Soveraignty as was never yet attempted in this Kingdome.</p>
+               <p n="5">5 Ye command your owne orders, ordinances, and Declara<g ref="char:EOLhyphen"/>tions to be printed &amp; publiſhed <hi>cum privilegio:</hi> But if any thing come from the King, which may truely informe and diſabuſe the people, ye forbid thoſe to be publiſhed, and commit them to priſon who do it.</p>
+               <pb n="8" facs="tcp:125360:6"/>
+               <p n="6">6. That monies advanced by gift, or adventure, or act of Parli<g ref="char:EOLhyphen"/>ament, and ſouldiers prepared for Ireland to reduce the Rebels there, ye have from time to time diverted to maintaine this un<g ref="char:EOLhyphen"/>naturall Warre in England; ſo ye doe viſibly looſe the Kingdome of Ireland, that ye may be the better enabled to looſe the King<g ref="char:EOLhyphen"/>dome of England alſo.</p>
+               <p n="7">7. Ye have ſhewed your ſelves ſo adverſe from peace, that ye have voted there ſhall bee no ceſſation of Armes, leſt by a free treaty a peace might enſue; This is your carriage towards the King himſelfe.</p>
+               <p>And leſt ye might be accuſed to be juſter to the ſubject then ye are towards your Sovereigne, theſe things ye have done to the ſubject alſo.</p>
+               <p n="1">1. Ye have made an Ordinance that the twentieth part of mens eſtates muſt be payed towards the maintenance of this Rebellion, and ye appoint thoſe who ſhall value that twentieth part; and why by the ſame reaſon ye take not the tenth part, or the one halfe, we ſee not; and for the levying of it, ye ordain your Collectors ſhall diſtraine for the ſum aſſeſſed, &amp; ſell the diſtreſſe; and if no diſtreſſe can be found, the perſons of theſe notable of<g ref="char:EOLhyphen"/>fendours are to be impriſoned, and they and their families bani<g ref="char:EOLhyphen"/>ſhed from their habitations.</p>
+               <p n="2">2. But leſt this ſhould not have the colour of Law ſuffici<g ref="char:EOLhyphen"/>ent to blind the world, ye have lately made an Ordinance for the Inhabitants of the Counties of <hi>Northampton, Rutland, Derby,</hi> &amp;c. to pay and be aſſeſſed (by Aſſeſſors named in your Act) in imitation of the Statute lately made for the 400000. l. and this, as is probable, ſhall in convenient time be extended to the whoe Kingdome: ſo ye firſt caſt your ſelves into a neceſſity to get money, by making an impious war upon your Sovereigne, and then out of that neceſſity ye compel your fellow-ſubjects (who abominate the war) to maintain it.</p>
+               <p n="3">3. And yee have yet a ſhorter and a ſurer way; where yee underſtand there is any Money, or Plate, or Goods to bee had, ye ſend a Party of Horſe or Dragooners, or other ſtrength, to fetch it as out of an enemies Countrey, becauſe the owners are good Subjects to the King, or you ſuſpect them to bee ſo; and
+<pb n="9" facs="tcp:125360:6"/>that alone is crime ſufficient to apprehend them, to judge them' and take execution upon them, and all this without the Cere<g ref="char:EOLhyphen"/>mony of Law, by your abſolute and omnipotent power, which cannot erre.</p>
+               <p n="4">4. You diſcharge Apprentices and Servants from their Ma<g ref="char:EOLhyphen"/>ſters ſervices, without conſent of their Maſters and Dames, and either perſwade them or compell them to ſerve you in your Army againſt the King: This is indeed the Liberty of the Sub<g ref="char:EOLhyphen"/>ject.</p>
+               <p n="5">5. Ye have impriſoned many for petitioning unto you, (as if that alone were a crime) if the matter of the Petition do not flatter you in your preſent courſes.</p>
+               <p n="6">6. And others ye have impriſoned, ſome for petitioning, and ſome for intending to petition to the King, (as thoſe Gen<g ref="char:EOLhyphen"/>tlemen of <hi>Hertfordſhire</hi> and <hi>Weſtminſter</hi>) And yet God be prai<g ref="char:EOLhyphen"/>ſed, the way is open to petition to him in heavne, and he will heare us in his good time.</p>
+               <p>Laſtly, for your Priviledges of Parliament.</p>
+               <p n="1">1. Firſt, ye forbid us to diſpute them, ye alone are (as yee ſay) the Judges of them; but in former ages thoſe alſo might be and have been judged by the Laws of the Kingdome; onely of offences committed by your own Members againſt your Houſe, of theſe ye are the proper Judges; and of the elections of your Members.</p>
+               <p n="2">2. Yet theſe we conceive under your good favours, are to be thus confined, that every Member of your Houſe hath and ought to have as free liberty as any of them, to deliver his opi<g ref="char:EOLhyphen"/>nion upon any emergent occaſion, and not to be committed, as ſome have beene,—or put out of the houſe, as others have been, forſpeaking freely againſt the ſence of the Houſe, or rather of ſome members thereof.</p>
+               <p n="3">3. The priviledges of your Houſe were never challenged till now, to extend to any Member which ſhould commit Trea<g ref="char:EOLhyphen"/>ſon, or Felony: but ye have now declared that no Member of the Houſe, nor any others imployed by you in this horrid Rebel<g ref="char:EOLhyphen"/>lion, ſhould be queſtioned for Treaſon, but in Parliament; or at leaſt by leave of the Houſe.</p>
+               <pb n="10" facs="tcp:125360:7"/>
+               <p n="4">4. Ye have made a cloſe Committee (as you call it) where<g ref="char:EOLhyphen"/>in a very few Members of your Houſe onely are privy to your Counſels, and what thoſe few conclude upon, is ſummatily re<g ref="char:EOLhyphen"/>ported to the Houſe, and that taken upon truſt by an implicite faith of all the reſt.</p>
+               <p n="5">5. Many of the preſent Members of your Houſe have had their elections queſtioned, but if they incline to thoſe poſitions which ye lay downe to your ſelves to uphold your tyrannicall and uſurped Government: ye are ſo buſied in the great affaires of State, that in two yeeres ſpace (for ſo long and longer yee have continued this Parliament already) yee have no leiſure to deter<g ref="char:EOLhyphen"/>mine thoſe queſtions, leſt you ſhould looſe ſuch a one from your party.</p>
+               <p n="6">6. Sometimes when a matter of importance hath beene in debate, ye have put it to the queſtion, and upon the queſtion it hath beene determined, and the ſame queſtion againe reſumed at another time, better prepared for the purpoſe, and determi<g ref="char:EOLhyphen"/>ned quite contrary; this we are well aſſured was not the Pri<g ref="char:EOLhyphen"/>viledge of former Parliaments, when many of us were Mem<g ref="char:EOLhyphen"/>bers thereof.</p>
+               <p>We do beleeve ye have many juſt Priviledges for the free<g ref="char:EOLhyphen"/>dome of your perſons, for freedome of ſpeech; but we never did beleeve that ye had a Priviledge to take the Scepter into your hands, to levy a Warre againſt your King, and to compell others to joyne with you in ſo execrable an act. Wee wiſh from our hearts that all theſe Obſervations were but fables and fictions, (as we have met with many from you to amuſe us) but they are all undeniably true; our conditions therfore are moſt miſerable, when thus inſtead of maintaining the true Proteſtant Religion, the Laws of the Land, the juſt Liberty and proprie<g ref="char:EOLhyphen"/>ty of the Subject, and juſt Priviledges of Parliament, they are all of them radically and fundamentally deſtroyed, and that by you, whoſe duties and profeſſions are daily to the contrary, And if any thing can be added to our miſery, it is this, that we cannot ſee through the time, when this intolerable yoke of ſlavery which ye put upon your fellow ſubjects, ſhall have an end, ſeeing by the art of a few yee have contrived an Act,
+<pb n="11" facs="tcp:125360:7"/>whereby ye have perfidiouſly over-reached both the King and people, to make this preſent Parliament to be perpetuall at your pleaſures, that ſo your arbitrary power and tyranny over the Kingdome, might be perpetuated.</p>
+               <p>Yet one thing more may be added to our unhappineſſe.</p>
+               <p>
+                  <hi>Fuiſſe foelices,</hi> We were lately a happy people, and are now on a ſudden reduced to ſuch a depth of unhappineſſe, that we are made a ſpectacle to the whole world, and the very object of their ſcorne: For,</p>
+               <p>We are (before we were aware of it) caſt in a Warre, a ci<g ref="char:EOLhyphen"/>vill Warre, an irreligious and barbarous Warre, againſt our So<g ref="char:EOLhyphen"/>veraigne, our naturall Liege Lord.</p>
+               <p>We are put into an inevitable way of poverty.</p>
+               <p>By being waſted in all quarters and corners of the Kingdome one by another:</p>
+               <p>By looſing our commerce at home, it being intercepted by the Armies, and almoſt no depts paid, occaſioned ſpecially by the priviledges of your Members, and ſuch as ye priviledge:</p>
+               <p>By looſing our trade abroade, it being caſt into the hand of ſtrangers.</p>
+               <p>We looſe our ſeaſon for tillage and husbandry, which muſt of neceſſity introduce a Famine; and Famine doth but uſher in a Peſtilence: And Warre, Famine, and Peſtilence, are the three great and fearefull Judgements of God upon a Nation.</p>
+               <p>Nothing can redeeme us out of their calamities, but a ſpeedy Peace; and to prepare it, a ceſſation of Armes: And then by good Lawes, as ye have already happily begun, to amend what is or hath beene amiſſe, without plucking up the foundations of Government.</p>
+               <p>We beſeech you therefore at the laſt, to lay aſide your affe<g ref="char:EOLhyphen"/>ctions, and in your judgements to provide for us, and for your ſelves, and for the honour of our religion, the peace of our conſciences, the preſervation of our lives and eſtates, and for the ſalvation of our poore ſoules, to have pitty upon us, bind up our bleeding wounds, cure the diſtractions of the time, and make up the breaches betweene the King and people, occaſio<g ref="char:EOLhyphen"/>ned onely by a miſ-underſtanding.</p>
+               <pb n="12" facs="tcp:125360:8"/>
+               <p>And if theſe our <hi>Petitions,</hi> or <hi>Complaints,</hi> or <hi>Remonſtrances</hi> (call them what ye will) may prevaile with you, wee doubt not, but that the King of His grace and goodneſſe will be in<g ref="char:EOLhyphen"/>treated to bury all your by-paſt actions in an act of oblivion, that neither the preſent age, nor the ages to come, may to the ſhame of this Nation, have cauſe to remember what hath hap<g ref="char:EOLhyphen"/>pened here in this laſt and worſt age of this world.</p>
+               <p>But if all this, and all which is your great judgements yee can adde unto it, ſhall not move you; We doe and ſhall pro<g ref="char:EOLhyphen"/>teſt to all the world, that with the hazard of our lives and for<g ref="char:EOLhyphen"/>tunes, and of all we can call ours; we ſhall endeavour to vin<g ref="char:EOLhyphen"/>dicate our ſelves from theſe inhumane courſes. <hi>Sed meliora ſperamus.</hi> We hope for better things.</p>
+               <p>And we ſhall inceſſantly pray to God to perfect our hopes, by bleſſing your Counſels.</p>
+            </div>
+            <trailer>FJNJS.</trailer>
+            <pb facs="tcp:125360:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
